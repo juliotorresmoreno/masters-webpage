@@ -1,0 +1,21 @@
+{
+  "name": "profesiones",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Julio Torres <jtorres990@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/juliotorresmoreno/masters-webpage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
