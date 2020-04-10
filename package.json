@@ -15,6 +15,7 @@
   "devDependencies": {
     "@types/express": "^4.17.5",
     "@types/node": "^13.11.1",
+    "bower": "^1.8.8",
     "ts-node": "^8.8.2",
     "typescript": "^3.8.3"
   }
