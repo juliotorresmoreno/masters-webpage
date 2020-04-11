@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src",
+    "start": "bigdata.sh start &> /dev/null; ts-node src",
     "deps": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
